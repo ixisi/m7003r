@@ -12,16 +12,16 @@ How To Use:
 Once you loaded the script it will display the current scene available in the scene collection
 
 If you inserted an audible source that you want to mute/umute it will show it in the list below the specific scene you selected.
-[Example One](assets/m7003r_example1.png)
+![Example One](assets/m7003r_example1.png)
 (example two with audible sources added)
-[Example_Two](assets/m7003r_example2.png)
+![Example_Two](assets/m7003r_example2.png)
 **( undefined state )** Will only show up if you have not interacted with check box
 **( mute state )** Will only show up if you have checked the box
 **( unmute state)** Will only show up if you have not checked the box
 
 
 Click on the **'+'** plus button to add a new audible source
-[Example Three](assets/m7003r_example3.png)
+![Example Three](assets/m7003r_example3.png)
 
 
 
